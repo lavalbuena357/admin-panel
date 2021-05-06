@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "ra-data-json-server": "^3.15.0"
+  }
+}
